@@ -1,3 +1,4 @@
+"use strict";
 var utility_1 = require("./utility");
 var GridRow = (function () {
     function GridRow(settings, items) {
@@ -95,7 +96,7 @@ var GridRow = (function () {
         return this.rowItems;
     };
     return GridRow;
-})();
+}());
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = GridRow;
 //# sourceMappingURL=GridRow.js.map

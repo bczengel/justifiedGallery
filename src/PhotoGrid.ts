@@ -1,5 +1,3 @@
-/// <reference path="./defs.d.ts"/>
-
 import * as _ from "lodash";
 import {ReadImageMeta, ReadImageFiles, IImageDimensions, IComputedImge, INormalizedImage, IResizedImage, ISettings} from "./types";
 import {resize, setTargetSize} from "./utility";

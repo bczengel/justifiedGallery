@@ -1,3 +1,4 @@
+"use strict";
 function setTargetSize(item, targetHeight) {
     var h = item.height;
     var targetSize = {

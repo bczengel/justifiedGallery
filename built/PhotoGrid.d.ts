@@ -1,4 +1,3 @@
-/// <reference path="../src/defs.d.ts" />
 import { IImageDimensions, ISettings } from "./types";
 import GridRow from "./GridRow";
 declare class PhotoGrid {

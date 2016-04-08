@@ -1,3 +1,4 @@
+"use strict";
 var _ = require("lodash");
 var utility_1 = require("./utility");
 var GridRow_1 = require("./GridRow");
@@ -57,7 +58,7 @@ var PhotoGrid = (function () {
         return this.rows;
     };
     return PhotoGrid;
-})();
+}());
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = PhotoGrid;
 //# sourceMappingURL=PhotoGrid.js.map
