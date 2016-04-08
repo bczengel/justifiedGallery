@@ -20,7 +20,7 @@
     "url": "https://github.com/pfzero/justifiedGallery/issues"
   },
   "homepage": "https://github.com/pfzero/justifiedGallery#readme",
-  "dependencies": {
+  "peerDependencies": {
     "lodash": "3.x.x"
   }
 }
